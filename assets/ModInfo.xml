@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Ragnars_FovChanger" />
+    <Description value="Lets you control weapon FOV. a20 adaptation of https://community.7daystodie.com/topic/21699-weaponhands-fov-camera-distance-changer/ (ivailogeimara mod for A19)" />
+    <Author value="RagnarHbUa" />
+    <Version value="1.0.0" />
+    <Website value="" />
+  </ModInfo>
+</xml>
